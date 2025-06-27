@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/egamez/static/css/main.0f907a64.css",
+    "main.js": "/egamez/static/js/main.134a115e.js",
+    "static/js/453.670e15c7.chunk.js": "/egamez/static/js/453.670e15c7.chunk.js",
+    "static/media/egamevalhalla_icon.png": "/egamez/static/media/egamevalhalla_icon.fce3a0b09df0a42ddab0.png",
+    "index.html": "/egamez/index.html",
+    "main.0f907a64.css.map": "/egamez/static/css/main.0f907a64.css.map",
+    "main.134a115e.js.map": "/egamez/static/js/main.134a115e.js.map",
+    "453.670e15c7.chunk.js.map": "/egamez/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f907a64.css",
+    "static/js/main.134a115e.js"
+  ]
+}
